@@ -1,0 +1,6 @@
+name: First comment
+on:
+  pull_request:
+    types: [opened]
+permissons:
+  pull_request: write
